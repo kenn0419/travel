@@ -347,15 +347,13 @@
     flex-direction: column;
     justify-content: space-between;
     border-radius: 5px;
-    margin-right: 8px;
-    flex-basis: 20%;
+    margin: 8px;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
-
 }
 
 .container-tickets .ticket-img img {
     width: 100%;
-    height: 100%;
+    height: 180px;
     transition: all 0.5s;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
